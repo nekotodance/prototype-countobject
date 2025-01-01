@@ -17,7 +17,7 @@ It uses open-cv, PyTorch, and YOLOv5.
     pip install torch torchvision opencv-python ultralytics
 
 #### How to run
-    py prototype-handtrack.py
+    py prototype-countobject.py
 
 ## How to install (simple method)
 [Download simplified installation zip].  

@@ -17,7 +17,7 @@ open-cv、PyTorch、YOLOv5を利用しています。
     pip install torch torchvision opencv-python ultralytics
 
 #### 実行方法
-    py prototype-handtrack.py
+    py prototype-countobject.py
 
 ## インストール方法（簡易な方法）
 [簡易インストール版zipのダウンロード]  
