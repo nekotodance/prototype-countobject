@@ -19,7 +19,7 @@ open-cv、PyTorch、YOLOv5を利用しています。
 #### 実行方法
     py prototype-countobject.py
 
-## インストール方法（簡易な方法）
+## インストール方法（簡易な方法Windows用）
 [簡易インストール版zipのダウンロード]  
     https://github.com/nekotodance/prototype-countobject/releases/download/latest/prototype-countobject.zip  
 
