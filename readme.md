@@ -19,7 +19,7 @@ It uses open-cv, PyTorch, and YOLOv5.
 #### How to run
     py prototype-countobject.py
 
-## How to install (simple method)
+## How to install (simple method for Windows)
 [Download simplified installation zip].  
     https://github.com/nekotodance/prototype-countobject/releases/download/latest/prototype-countobject.zip  
 
